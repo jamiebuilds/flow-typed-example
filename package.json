@@ -1,0 +1,8 @@
+{
+  "name": "flow-typed-example",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "map-obj": "^1.0.1"
+  }
+}
